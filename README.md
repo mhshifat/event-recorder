@@ -4,7 +4,7 @@ A simple event recorder app.
 
 ### Demo Link
 
-link: [https://movie-dev-app.netlify.app](https://movie-dev-app.netlify.app)
+link: [https://event-recorder.netlify.app](https://event-recorder.netlify.app)
 
 ### Technologies Used
 
